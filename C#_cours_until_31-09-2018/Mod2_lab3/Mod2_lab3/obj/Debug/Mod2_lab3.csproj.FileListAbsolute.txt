@@ -1,0 +1,7 @@
+C:\Users\harold\Dropbox\EDX courses\C#_cours until 31-09-2018\Mod2_lab3\Mod2_lab3\bin\Debug\Mod2_lab3.exe.config
+C:\Users\harold\Dropbox\EDX courses\C#_cours until 31-09-2018\Mod2_lab3\Mod2_lab3\bin\Debug\Mod2_lab3.exe
+C:\Users\harold\Dropbox\EDX courses\C#_cours until 31-09-2018\Mod2_lab3\Mod2_lab3\bin\Debug\Mod2_lab3.pdb
+C:\Users\harold\Dropbox\EDX courses\C#_cours until 31-09-2018\Mod2_lab3\Mod2_lab3\obj\Debug\Mod2_lab3.csprojAssemblyReference.cache
+C:\Users\harold\Dropbox\EDX courses\C#_cours until 31-09-2018\Mod2_lab3\Mod2_lab3\obj\Debug\Mod2_lab3.csproj.CoreCompileInputs.cache
+C:\Users\harold\Dropbox\EDX courses\C#_cours until 31-09-2018\Mod2_lab3\Mod2_lab3\obj\Debug\Mod2_lab3.exe
+C:\Users\harold\Dropbox\EDX courses\C#_cours until 31-09-2018\Mod2_lab3\Mod2_lab3\obj\Debug\Mod2_lab3.pdb
